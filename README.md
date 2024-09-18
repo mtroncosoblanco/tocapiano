@@ -6,14 +6,14 @@ Tendra tanto teclas b&n
 Sonará como un teclado de verdad
 Se podrá tocar con el teclado del ordenador
 
-- [] mostrar una web con las teclas blancas (sin sonidos)
-- [] permitir que el ususario pulse teclas y suene
-- [] añadir las teclas negras
+- [x] mostrar una web con las teclas blancas (sin sonidos)
+- [x] permitir que el ususario pulse teclas y suene
+- [x] añadir las teclas negras
 - [] permitir que el usuario toque el piano con el teclado del ordenador
 - [] incorporar sonidos reales
 - [] refactorizar
 - [] testear
-- [] deploy
+- [x] deploy
 
 ## Comandos
 Descargar dependencias del proyecto
@@ -33,6 +33,9 @@ Instalar una dependencia en particular
 ```
 npm install xxx
 ```
+deploy a github
+```
+
 
 
 
